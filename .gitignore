@@ -1,3 +1,5 @@
 .gstack/
 page-src.html
 rebundle.js
+preview-seed.js
+index.demo.html
